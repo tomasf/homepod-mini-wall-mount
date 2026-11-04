@@ -1,0 +1,60 @@
+{
+  "originHash" : "dc7f3042f1aa3901913c0804a71ede86c8fa361c602500fa4d1fad88b12c0e71",
+  "pins" : [
+    {
+      "identity" : "cadova",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Cadova.git",
+      "state" : {
+        "revision" : "d755727316c59d47f08a46339133ec29f96232f7",
+        "version" : "1.2.1"
+      }
+    },
+    {
+      "identity" : "helical",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Helical.git",
+      "state" : {
+        "revision" : "cd955adf15a49e79fdaefc6f865bbd71e710c90a",
+        "version" : "1.2.0"
+      }
+    },
+    {
+      "identity" : "nodal",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Nodal.git",
+      "state" : {
+        "revision" : "18b66a53d97efff782b8b7d82c8c085be9a8cc54",
+        "version" : "1.0.3"
+      }
+    },
+    {
+      "identity" : "prepress",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Prepress.git",
+      "state" : {
+        "revision" : "748e79d97c19dc44d949c289ef0afc181d5919c1",
+        "version" : "0.1.0"
+      }
+    },
+    {
+      "identity" : "threemf",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/ThreeMF.git",
+      "state" : {
+        "revision" : "bb24e8176db3f9c82ddf43c3f224eb95c831818e",
+        "version" : "0.3.3"
+      }
+    },
+    {
+      "identity" : "zip",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tomasf/Zip.git",
+      "state" : {
+        "revision" : "83b635cb5b9a7372c1cabbd58af159db63969c6c",
+        "version" : "2.1.3"
+      }
+    }
+  ],
+  "version" : 3
+}
