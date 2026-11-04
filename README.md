@@ -4,6 +4,9 @@ A two-part wall mount for the HomePod mini, made with [Cadova](https://github.co
 120 mm out from the wall, hides the excess cable inside, and lets the cable leave upward toward an outlet above the
 mount. Both parts print without supports. It fits both the first and the second generation of the HomePod mini.
 
+Print profiles and additional details are
+[available on MakerWorld](https://makerworld.com/en/models/3546343-homepod-mini-wall-mount-with-hidden-cable-storage).
+
 ## How it works
 
 The **shell** is screwed to the wall. The speaker's foot stands in a 2 mm recess at its tip, with the rest of the
